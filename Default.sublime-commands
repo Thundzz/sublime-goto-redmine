@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Go to redmine",
+        "command": "go_to_redmine"
+    }
+]

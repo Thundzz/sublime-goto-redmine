@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+shift+g"], "command": "go_to_redmine" },
+]
