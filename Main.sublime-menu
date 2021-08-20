@@ -1,0 +1,28 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "caption": "Go to redmine",
+            "children": [
+              {
+                "args": {
+                  "base_file": "${packages}/sublime-goto-redmine/Go to redmine.sublime-settings",
+                  "default": "{\n\t\"base_url\": \"$0\"\n}\n"
+                },
+                "caption": "Settings",
+                "command": "edit_settings"
+              },
+              {
+                "caption": "-"
+              }
+            ]
+          }
+        ],
+        "id": "package-settings"
+      }
+    ],
+    "id": "preferences"
+  }
+]
